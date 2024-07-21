@@ -142,8 +142,8 @@ Despite the great success in general domains, FMs struggle in specific domains r
 	<div class="pt-4 text-xl">
 	<!-- <p class="mb-8">All deadlines are due 23:59 PM UTC-0.</p> -->
     <ul class="list-disc list-inside space-y-4 pl-4">
-        <li><strong>Submission Deadline: </strong> Aug 30, 2024.</li>
-        <li><strong>Accept/Reject Notification: </strong> Oct 14, 2024.</li>
+        <li><strong>Submission Deadline: 	</strong> Aug 29, 2024, 23:59 UTC-0.</li>
+        <li><strong>Accept/Reject Notification: </strong> Oct 13, 2024, 23:59 UTC-0.</li>
 	<!-- mandatory acc/rej deadline -->
     </ul>
 
