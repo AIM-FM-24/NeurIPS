@@ -55,7 +55,7 @@
 	<NavUl {hidden}>
 		<NavLi href="{base}/" active={true}>Home</NavLi>
 		<NavLi href="{base}/#overview">Overview</NavLi>
-		<NavLi href="{base}/#Topics">Topics</NavLi>
+		<NavLi href="{base}/#Call for Papers">Call for Papers</NavLi>
 		<!-- <NavLi href="{base}/#schedule">Schedule</NavLi> -->
 		<NavLi href="{base}/#speakers">Speakers</NavLi>
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
@@ -111,9 +111,10 @@ Despite the great success in general domains, FMs struggle in specific domains r
 
 <section class="container mx-auto px-4 mb-8 ">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white" id="Topics"><a href="{base}/#Topics">Topics of Interest</a></h2>
+		<h2 class="text-4xl font-extrabold dark:text-white" id="Call for Papers"><a href="{base}/#Call for Papers">Call for Papers</a></h2>
 		<div class="pt-4"><p class="text-xl">
-<div class="pt-4 text-xl">
+	<div class="pt-4 text-xl">
+	<h3 class="text-4xl font-extrabold dark:text-white" id="Topics of Interest"><a href="{base}/#Topics of Interest">Topics of Interest</a></h3>
 	<p class="mb-8">Key topics of interest for the workshop may cover, but are not limited to, the following aspects.</p>
     <ul class="list-disc list-inside space-y-4 pl-4">
         <li><strong>MFMs at Scale</strong> Develop large-scale medical foundation models applicable for hospital use, including diagnosis, prognosis, treatment, surgical assistance.</li>
