@@ -112,7 +112,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 
 <section class="container mx-auto px-4 mb-8 ">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white" id="Topics of Interest"><a href="{base}/#Topics of Interest">Topics of Interest</a></h2>
+		<h2 class="text-4xl font-extrabold dark:text-white" id="Topics"><a href="{base}/#Topics">Topics of Interest</a></h2>
 		<div class="pt-4"><p class="text-xl">
 	<div class="pt-4 text-xl">
 	<p class="mb-8">Key topics of interest for the workshop may cover, but are not limited to, the following aspects.</p>
