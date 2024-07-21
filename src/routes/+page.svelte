@@ -295,7 +295,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="AnimashreeAnandkumar.png" alt="Prof. Animashree Anandkumar">
+						<img class="aspect-square object-cover object-top" src="AnimashreeAnandkumar.png" style="width: 80%;" alt="Prof. Animashree Anandkumar">
 					</a>
 					<div class="px-6 py-4">
 					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
@@ -310,7 +310,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="TianmingLiu.png" alt="Prof. Tianming Liu">
+						<img class="aspect-square object-cover object-top" src="TianmingLiu.png" style="width: 80%;" alt="Prof. Tianming Liu">
 					</a>
 					<div class="px-6 py-4">
 					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
@@ -324,7 +324,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="PearseKeane.png" alt="Prof. Pearse Keane">
+						<img class="aspect-square object-cover object-top" src="PearseKeane.png" style="width: 80%;" alt="Prof. Pearse Keane">
 					</a>
 					<div class="px-6 py-4">
 					<div class="font-bold text-xl mb-2"><a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">Prof. Pearse Keane</a></div>
@@ -341,7 +341,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="JamesZou.png" alt="Prof. James Zou">
+						<img class="aspect-square object-cover object-top" src="JamesZou.png" style="width: 80%;" alt="Prof. James Zou">
 					</a>
 					<div class="px-6 py-4">
 					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou</a></div>
@@ -356,7 +356,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="mahmood_faisal.png" alt="Prof. Faisal Mahmood">
+						<img class="aspect-square object-cover object-top" src="mahmood_faisal.png" style="width: 80%;" alt="Prof. Faisal Mahmood">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">Prof. Faisal Mahmood</a></div>
@@ -369,7 +369,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="ShengWang.png" alt="Prof. Sheng Wang">
+						<img class="aspect-square object-cover object-top" src="ShengWang.png" alt="Prof. Sheng Wang">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">Prof. Sheng Wang</a></div>
@@ -383,7 +383,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="Shekoofeh Azizi.png" alt="Dr. Shekoofeh Azizi">
+						<img class="aspect-square object-cover object-top" src="Shekoofeh Azizi.png" style="width: 80%;" alt="Dr. Shekoofeh Azizi">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi</a></div>
@@ -398,7 +398,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="karan.png" alt="Karan Singhal">
+						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 80%;" alt="Karan Singhal">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal</a></div>
@@ -435,7 +435,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="yxyuan.png" alt="Prof. Yixuan Yuan">
+						<img class="aspect-square object-cover object-top" src="yxyuan.png" style="width: 80%;" alt="Prof. Yixuan Yuan">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">Prof. Yixuan Yuan</a></div>
@@ -449,7 +449,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://yaoqin1.github.io/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="y.qin-2024.png" alt="Prof. Yao Qin">
+						<img class="aspect-square object-cover object-top" src="y.qin-2024.png" style="width: 80%;" alt="Prof. Yao Qin">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://yaoqin1.github.io/" target="_blank" rel="noopener noreferrer">Prof. Yao Qin</a></div>
@@ -463,7 +463,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://xiangli-shaun.github.io/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="XiangLi.png" alt="Prof. Xiang Li">
+						<img class="aspect-square object-cover object-top" src="XiangLi.png" style="width: 80%;" alt="Prof. Xiang Li">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://xiangli-shaun.github.io/" target="_blank" rel="noopener noreferrer">Prof. Xiang Li</a></div>
@@ -478,7 +478,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://wei-ying.net/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="Ying_circle_2.png" alt="Prof. Ying Wei">
+						<img class="aspect-square object-cover object-top" src="Ying_circle_2.png" style="width: 80%;" alt="Prof. Ying Wei">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://wei-ying.net/" target="_blank" rel="noopener noreferrer">Prof. Ying Wei</a></div>
@@ -493,7 +493,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://di.ku.dk/english/staff/?pure=en/persons/644987" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="BulatIbragimov.png" alt="Prof. Bulat Ibragimov">
+						<img class="aspect-square object-cover object-top" src="BulatIbragimov.png" style="width: 80%;" alt="Prof. Bulat Ibragimov">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://di.ku.dk/english/staff/?pure=en/persons/644987" target="_blank" rel="noopener noreferrer">Prof. Bulat Ibragimov</a></div>
@@ -507,7 +507,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://engineering.ucsb.edu/people/linda-petzold" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="LindaPetzold.png" alt="Prof. Linda Petzold">
+						<img class="aspect-square object-cover object-top" src="LindaPetzold.png" style="width: 80%;" alt="Prof. Linda Petzold">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://engineering.ucsb.edu/people/linda-petzold" target="_blank" rel="noopener noreferrer">Prof. Linda Petzold</a></div>
@@ -538,7 +538,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="luzh.png" alt="Prof. Zhiyong Lu">
+						<img class="aspect-square object-cover object-top" src="luzh.png" style="width: 80%;" alt="Prof. Zhiyong Lu">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">Prof. Zhiyong Lu</a></div>
@@ -553,7 +553,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="AnimashreeAnandkumar.png" alt="Prof. Animashree Anandkumar">
+						<img class="aspect-square object-cover object-top" src="AnimashreeAnandkumar.png" style="width: 80%;" alt="Prof. Animashree Anandkumar">
 					</a>
 					<div class="px-6 py-4">
 					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
@@ -568,7 +568,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="TianmingLiu.png" alt="Prof. Tianming Liu">
+						<img class="aspect-square object-cover object-top" src="TianmingLiu.png" style="width: 80%;" alt="Prof. Tianming Liu">
 					</a>
 					<div class="px-6 py-4">
 					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
@@ -582,7 +582,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="PearseKeane.png" alt="Prof. Pearse Keane">
+						<img class="aspect-square object-cover object-top" src="PearseKeane.png" style="width: 80%;" alt="Prof. Pearse Keane">
 					</a>
 					<div class="px-6 py-4">
 					<div class="font-bold text-xl mb-2"><a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">Prof. Pearse Keane</a></div>
@@ -599,7 +599,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="JamesZou.png" alt="Prof. James Zou">
+						<img class="aspect-square object-cover object-top" src="JamesZou.png" style="width: 80%;" alt="Prof. James Zou">
 					</a>
 					<div class="px-6 py-4">
 					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou</a></div>
@@ -614,7 +614,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="mahmood_faisal.png" alt="Prof. Faisal Mahmood">
+						<img class="aspect-square object-cover object-top" src="mahmood_faisal.png" style="width: 80%;" alt="Prof. Faisal Mahmood">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">Prof. Faisal Mahmood</a></div>
@@ -627,7 +627,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="ShengWang.png" alt="Prof. Sheng Wang">
+						<img class="aspect-square object-cover object-top" src="ShengWang.png" style="width: 80%;" alt="Prof. Sheng Wang">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">Prof. Sheng Wang</a></div>
@@ -641,7 +641,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="Shekoofeh Azizi.png" alt="Dr. Shekoofeh Azizi">
+						<img class="aspect-square object-cover object-top" src="Shekoofeh Azizi.png" style="width: 80%;" alt="Dr. Shekoofeh Azizi">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi</a></div>
@@ -656,7 +656,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">
-						<img class="w-full aspect-square object-cover object-top" src="karan.png" alt="Karan Singhal">
+						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 80%;" alt="Karan Singhal">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal</a></div>
