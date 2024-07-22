@@ -61,6 +61,8 @@
 		<NavLi href="{base}/#speakers">Speakers</NavLi>
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
 		<NavLi href="{base}/#panel">Panel Discussion</NavLi>
+		<NavLi href="{base}/#Contact">Contact</NavLi>
+Contact
 	</NavUl>
 </Navbar>
 
@@ -140,7 +142,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 		<h2 class="text-4xl font-extrabold dark:text-white" id="Submissions"><a href="{base}/#Submissions">Submissions</a></h2>
 		<div class="pt-4"><p class="text-xl">
 	<div class="pt-4 text-xl">
-	<!-- <p class="mb-8">All deadlines are due 23:59 PM UTC-0. <Button size="sm" href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM">Submission Link</Button> </p> -->
+	<p class="mb-8" href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM">Submission Link</p>
     <ul class="list-disc list-inside space-y-4 pl-4">
         <li><strong>Submission Deadline: 	</strong> Aug 30, 2024, 23:59 UTC-0.</li>
         <li><strong>Accept/Reject Notification: </strong> Oct 13, 2024, 23:59 UTC-0.</li>
@@ -703,7 +705,12 @@ Despite the great success in general domains, FMs struggle in specific domains r
 
 
 
-
+<section class="container mx-auto px-4 py-4">
+	<div class="grid">
+		<h2 class="text-4xl font-extrabold dark:text-white " id="Contact"><a href="{base}/#Contact">Contact</a></h2>
+		<p class="mb-8">aim.fm.neurips24@gmail.com</p>
+	</div>
+</section>
 
 
 
