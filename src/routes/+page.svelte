@@ -621,21 +621,21 @@ The panel discussion members include the following keynote speakers and <a href=
 </body>
 
 
-<!-- <footer class="bg-gray-200 py-8 mt-8">
+<footer class="bg-gray-200 py-8 mt-8">
 	<div class="container mx-auto px-4">
 		<div class="flex justify-between items-center">
 
 			<div class="text-gray-600">
-				<p>
+				<!-- <p>
 					Contact: <a href="mailto:yxyuan@ee.cuhk.edu.hk" class="hover:text-gray-900">yxyuan@ee.cuhk.edu.hk</a>
-				</p>
+				</p> -->
 			</div>
 			<div class="text-center text-gray-600">
 				<p>&copy; 2024. All rights reserved.</p>
 			</div>
 		</div>
 	</div>
-</footer> -->
+</footer> 
 
 
 <style>
