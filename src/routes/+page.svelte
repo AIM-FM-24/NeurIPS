@@ -475,7 +475,7 @@ The panel discussion members include the following keynote speakers and <a href=
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="YixuanYuan_v2.png" style="width: 66%; margin: auto;" alt="Prof. Yixuan Yuan">
+						<img class="aspect-square object-cover object-top" src="yxyuan.png" style="width: 66%; margin: auto;" alt="Prof. Yixuan Yuan">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">Prof. Yixuan Yuan</a></div>
