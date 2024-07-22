@@ -82,11 +82,11 @@
         <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
 			Towards next-generation medical analysis: Unlock the potential of medical foundation models for more explainable, robust, secure diagnosis solutions
 		</p>
-	<h2 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+	<p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
 			Co-located with NeurlPs 2024 <br>
 			December 14,2024<br>
 			Vancouver Convention Center <br>
-		</h2>
+		</p>
     </div>
 </section> -->
 <section class="bg-white dark:bg-gray-900" style="background-image: url('background.jpg'); background-size: cover; background-position: center;">
