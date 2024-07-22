@@ -569,7 +569,7 @@ The panel discussion members include the following keynote speakers and <a href=
 <section class="container mx-auto px-4 py-4">
 	<div class="grid">
 		<h2 class="text-4xl font-extrabold dark:text-white " id="Contact"><a href="{base}/#Contact">Contact</a></h2>
-		  <div class="email-content"> 
+		  <div class="email-content col-md-6"> 
 			<p class="mb-8"><a href="mailto:aim.fm.neurips24@gmail.com">aim.fm.neurips24@gmail.com</a></p>
 		  </div>
 	</div>
