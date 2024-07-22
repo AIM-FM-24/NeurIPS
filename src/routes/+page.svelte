@@ -60,7 +60,7 @@
 		<!-- <NavLi href="{base}/#schedule">Schedule</NavLi> -->
 		<NavLi href="{base}/#speakers">Speakers</NavLi>
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
-		<!-- <NavLi href="{base}/#panel">Panel Discussion</NavLi> -->
+		<NavLi href="{base}/#panel">Panel Discussion</NavLi>
 		<NavLi href="{base}/#Contact">Contact</NavLi>
 	</NavUl>
 </Navbar>
@@ -105,12 +105,13 @@ There have been notable advancements in large foundation models (FMs), which exh
 
 Healthcare is one of the most crucial industries touching every individual. Yet, due to large populations and limited medical professionals, it faces significant challenges, including the high cost and low doctor-to-population ratio. This shortage is more pronounced in rural and developing regions, where access to qualified doctors is severely limited, exacerbating health disparities and preventing timely treatment for common and complex conditions alike. <strong><em>Hence, there is a critical need to develop effective, affordable, and professional AI-driven medical assistants</em></strong>. <br><br>
 
-Despite the great success in general domains, FMs struggle in specific domains requiring strict professional qualifications, such as healthcare, which has high sensitivity and security risk. In light of the growing healthcare demands, <strong><em>this workshop aims to explore the potential of Medical Foundation Models (MFMs) in smart medical assistance, thereby improving patient outcomes and streamlining clinical workflows</em></strong>. Considering the primary clinical needs, we emphasize the <strong><em>explainability, robustness, and security</em></strong> of the large-scale multimodal medical assistant, pushing forward its reliability and trustworthiness. By bringing together expertise in diverse fields, we hope to bridge the gap between industry and academia regarding precision medicine, highlighting clinical requirements, inherent concerns, and AI solutions. Through this cooperative endeavor, we aim to unlock the potential of MFMs, striving for groundbreaking advancements in healthcare. <br><br>
-
+Despite the great success in general domains, FMs struggle in specific domains requiring strict professional qualifications, such as healthcare, which has high sensitivity and security risk. In light of the growing healthcare demands, <strong><em>this workshop aims to explore the potential of Medical Foundation Models (MFMs) in smart medical assistance, thereby improving patient outcomes and streamlining clinical workflows</em></strong>. Considering the primary clinical needs, we emphasize the <strong><em>explainability, robustness, and security</em></strong> of the large-scale multimodal medical assistant, pushing forward its reliability and trustworthiness. By bringing together expertise in diverse fields, we hope to bridge the gap between industry and academia regarding precision medicine, highlighting clinical requirements, inherent concerns, and AI solutions. Through this cooperative endeavor, we aim to unlock the potential of MFMs, striving for groundbreaking advancements in healthcare. 
+<!-- <br><br>
 We will also host a panel discussion focusing on MFM policies, regulations, and the diverse interests and concerns of stakeholders. These discussions aim to foster a deeper understanding and facilitate meaningful dialogue among industry experts, policymakers, and other key participants. 
 The panel discussion members include the following keynote speakers and <a href="https://www.ncbi.nlm.nih.gov/research/bionlp" class="text-gray-600 hover:text-gray-900"><strong>Prof. Zhiyong Lu</strong></a> (Senior Investigator at NIH/NLM; Deputy Director for Literature Search at National Center for Biotechnology Information; Professor of Computer Science (Adjunct) at University of Illinois Urbana-Champaign, USA).
+-->
 
-		</div>
+</div>
 	</div>
 </section>
 
@@ -145,7 +146,7 @@ The panel discussion members include the following keynote speakers and <a href=
 		<div class="pt-4"><p class="text-xl">
 	<div class="pt-4 text-xl">
     	<ul class="list-disc list-inside space-y-4 pl-4">
-	<li><strong>Submission Link: 	</strong> <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM" class="text-gray-600 hover:text-gray-900">NeurIPS 2024 Workshop AIM-FM</a>. </li>
+	<li><strong>Submission Link: </strong> Papers should be submitted at the <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM" class="text-gray-600 hover:text-gray-900">OpenReview</a> website.</li>
         <li><strong>Submission Deadline: 	</strong> Aug 30, 2024, 23:59 UTC-0.</li>
         <li><strong>Accept/Reject Notification: </strong> Oct 13, 2024, 23:59 UTC-0.</li>
 	<!-- mandatory acc/rej deadline -->
@@ -543,6 +544,157 @@ The panel discussion members include the following keynote speakers and <a href=
 
 	</div>
 </section>
+
+
+<section class="container mx-auto px-4 py-4  mb-8">
+	<div class="grid">
+		<h2 class="text-4xl font-extrabold dark:text-white" id="panel"><a href="{base}/#panel">Panel Discussion</a></h2>
+
+	<p style="margin-top: 20px;">
+		We will also host a panel discussion focusing on MFM policies, regulations, and the diverse interests and concerns of stakeholders. These discussions aim to foster a deeper understanding and facilitate meaningful dialogue among industry experts, policymakers, and other key participants.
+	</p>
+
+		<div class="grid md:grid-cols-4 gap-4">
+			
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="luzh.png" style="width: 93%; margin: auto;" alt="Prof. Zhiyong Lu">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">Prof. Zhiyong Lu</a></div>
+						<p class="text-gray-700 text-base">
+							Senior Investigator at NIH/NLM; Deputy Director for Literature Search at National Center for Biotechnology Information; Professor of Computer Science (Adjunct) at University of Illinois Urbana-Champaign, USA
+						</p>
+					</div>
+				</div>
+			</div>
+
+			
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="AnimashreeAnandkumar.png" style="width: 93%; margin: auto;" alt="Prof. Animashree Anandkumar">
+					</a>
+					<div class="px-6 py-4">
+					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
+					<div class="font-bold text-xl mb-2"><a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">Prof. Animashree Anandkumar</a></div>
+					<p class="text-gray-700 text-base">
+						Bren Professor at California Institute of Technology, Pasadena, CA; Senior Director of AI Research at NVIDIA, Santa Clara, CA.
+					</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="TianmingLiu.png" style="width: 93%; margin: auto;" alt="Prof. Tianming Liu">
+					</a>
+					<div class="px-6 py-4">
+					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
+					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu</a></div>
+					<p class="text-gray-700 text-base">
+						Distinguished Research Professor at University of Georgia (UGA), USA; Director of UGA Bioimaging Research Center, UGA Institute of Bioinformatics, and UGA Institute of Artificial Intelligence.
+					</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="PearseKeane.png" style="width: 93%; margin: auto;" alt="Prof. Pearse Keane">
+					</a>
+					<div class="px-6 py-4">
+					<div class="font-bold text-xl mb-2"><a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">Prof. Pearse Keane</a></div>
+					<p class="text-gray-700 text-base">
+						Professor of Artificial Medical Intelligence at UCL Institute of Ophthalmology; Consultant ophthalmologist at Moorfields Eye Hospital, London
+						
+					</p>
+					</div>
+				</div>
+			</div>
+	
+
+
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="JamesZou.png" style="width: 93%; margin: auto;" alt="Prof. James Zou">
+					</a>
+					<div class="px-6 py-4">
+					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou</a></div>
+
+					<p class="text-gray-700 text-base">
+						Associate Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University, USA
+					</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="mahmood_faisal.png" style="width: 93%; margin: auto;" alt="Prof. Faisal Mahmood">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">Prof. Faisal Mahmood</a></div>
+						<p class="text-gray-700 text-base">
+							Associate Professor at Harvard Medical School, USA; Lead Investigator of Brigham and Women's Hospital 
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="ShengWang.png" style="width: 93%; margin: auto;" alt="Prof. Sheng Wang">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">Prof. Sheng Wang</a></div>
+						<p class="text-gray-700 text-base">
+							Assistant Professor at University of Washington, Seattle, USA
+
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="Shekoofeh Azizi.png" style="width: 93%; margin: auto;" alt="Dr. Shekoofeh Azizi">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi</a></div>
+						<p class="text-gray-700 text-base">
+							Staff research scientist at Google DeepMind (formerly Google Brain) and a research lead for Health AI at Google DeepMind, Canada 
+
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 93%; margin: auto;" alt="Karan Singhal">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal</a></div>
+						<p class="text-gray-700 text-base">
+							Staff research scientist at OpenAI, co-leading teams working on medical AI, foundation models, USA
+						</p>
+					</div>
+				</div>
+			</div>
+
+
+
+		</div>
+
+	</div>
+</section>
+
 
 <section class="container mx-auto px-4 py-4">
 	<div class="grid">
