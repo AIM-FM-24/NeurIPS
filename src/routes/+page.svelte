@@ -621,7 +621,7 @@ The panel discussion members include the following keynote speakers and <a href=
 </body>
 
 
-<footer class="bg-gray-200 py-8 mt-8">
+<!-- <footer class="bg-gray-200 py-8 mt-8">
 	<div class="container mx-auto px-4">
 		<div class="flex justify-between items-center">
 
@@ -635,7 +635,7 @@ The panel discussion members include the following keynote speakers and <a href=
 			</div>
 		</div>
 	</div>
-</footer>
+</footer> -->
 
 
 <style>
