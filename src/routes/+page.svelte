@@ -90,15 +90,15 @@
 		<h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl tracking-wider">
 			AIM-FM: Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond
 		</h1>
-		<h3 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
+		<h2 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
 		<i class="fas fa-star"></i> Co-located with NeurIPS 2024	<br>
-		</h3>
-		<h3 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
+		</h2>
+		<h2 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
 		<i class="fas fa-calendar"></i> December 14, 2024		<br>
-		</h3>
-		<h3 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
+		</h2>
+		<h2 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
 		<i class="fas fa-map"></i> Vancouver Convention Center		<br>
-		</h3>
+		</h2>
 	        <p class="text-white">
 	            Towards next-generation medical analysis: Unlock the potential of medical foundation models for more explainable, robust, secure diagnosis solutions
 	        </p>
