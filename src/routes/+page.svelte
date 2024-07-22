@@ -62,7 +62,6 @@
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
 		<NavLi href="{base}/#panel">Panel Discussion</NavLi>
 		<NavLi href="{base}/#Contact">Contact</NavLi>
-Contact
 	</NavUl>
 </Navbar>
 
