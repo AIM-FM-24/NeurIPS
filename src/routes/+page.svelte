@@ -355,7 +355,7 @@ The panel discussion members include the following keynote speakers and <a href=
 					</a>
 					<div class="px-6 py-4">
 					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
-					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu</a></div>
+					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu &dagger;&starf;</a></div>
 					<p class="text-gray-700 text-base">
 						Distinguished Research Professor at University of Georgia (UGA), USA; Director of UGA Bioimaging Research Center, UGA Institute of Bioinformatics, and UGA Institute of Artificial Intelligence.
 					</p>
