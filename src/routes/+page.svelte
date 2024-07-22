@@ -140,9 +140,9 @@ Despite the great success in general domains, FMs struggle in specific domains r
 		<h2 class="text-4xl font-extrabold dark:text-white" id="Submissions"><a href="{base}/#Submissions">Submissions</a></h2>
 		<div class="pt-4"><p class="text-xl">
 	<div class="pt-4 text-xl">
-	<!-- <p class="mb-8">All deadlines are due 23:59 PM UTC-0.</p> -->
+	<!-- <p class="mb-8">All deadlines are due 23:59 PM UTC-0. <Button size="sm" href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM">Submission Link</Button> </p> -->
     <ul class="list-disc list-inside space-y-4 pl-4">
-        <li><strong>Submission Deadline: 	</strong> Aug 29, 2024, 23:59 UTC-0.</li>
+        <li><strong>Submission Deadline: 	</strong> Aug 30, 2024, 23:59 UTC-0.</li>
         <li><strong>Accept/Reject Notification: </strong> Oct 13, 2024, 23:59 UTC-0.</li>
 	<!-- mandatory acc/rej deadline -->
     </ul>
