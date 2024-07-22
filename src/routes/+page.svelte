@@ -91,7 +91,7 @@
 			AIM-FM: Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond
 		</h1>
 	        <p class="text-white">
-	            Towards next-generation medical analysis: Unlock the potential of medical foundation models for more explainable, robust, secure diagnosis solutions <br>
+	            Towards next-generation medical analysis: Unlock the potential of medical foundation models for more explainable, robust, secure diagnosis solutions <br><br>
 	        </p>
 		<h1 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
 		<i class="fas fa-star"></i> Co-located with NeurIPS 2024	<br>
