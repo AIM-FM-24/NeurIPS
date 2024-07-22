@@ -548,7 +548,7 @@ The panel discussion members include the following keynote speakers and <a href=
 
 <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white" id="panel"><a href="{base}/#panel">Panel Discussion</a></h2>
+		<h2 class="text-4xl font-extrabold dark:text-white" id="panel"><a href="{base}/#panel">Panel Discussion (&dagger;)</a></h2>
 
 	<p style="margin-top: 20px;">
 		We will also host a panel discussion focusing on MFM policies, regulations, and the diverse interests and concerns of stakeholders. These discussions aim to foster a deeper understanding and facilitate meaningful dialogue among industry experts, policymakers, and other key participants.
@@ -562,7 +562,7 @@ The panel discussion members include the following keynote speakers and <a href=
 						<img class="aspect-square object-cover object-top" src="luzh.png" style="width: 93%; margin: auto;" alt="Prof. Zhiyong Lu">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">Prof. Zhiyong Lu</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">Prof. Zhiyong Lu &dagger;</a></div>
 						<p class="text-gray-700 text-base">
 							Senior Investigator at NIH/NLM; Deputy Director for Literature Search at National Center for Biotechnology Information; Professor of Computer Science (Adjunct) at University of Illinois Urbana-Champaign, USA
 						</p>
