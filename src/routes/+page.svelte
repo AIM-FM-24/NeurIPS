@@ -60,7 +60,7 @@
 		<!-- <NavLi href="{base}/#schedule">Schedule</NavLi> -->
 		<NavLi href="{base}/#speakers">Speakers</NavLi>
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
-		<NavLi href="{base}/#panel">Panel Discussion</NavLi>
+		<!-- <NavLi href="{base}/#panel">Panel Discussion</NavLi> -->
 		<NavLi href="{base}/#Contact">Contact</NavLi>
 	</NavUl>
 </Navbar>
@@ -106,6 +106,9 @@ There have been notable advancements in large foundation models (FMs), which exh
 Healthcare is one of the most crucial industries touching every individual. Yet, due to large populations and limited medical professionals, it faces significant challenges, including the high cost and low doctor-to-population ratio. This shortage is more pronounced in rural and developing regions, where access to qualified doctors is severely limited, exacerbating health disparities and preventing timely treatment for common and complex conditions alike. <strong><em>Hence, there is a critical need to develop effective, affordable, and professional AI-driven medical assistants</em></strong>. <br><br>
 
 Despite the great success in general domains, FMs struggle in specific domains requiring strict professional qualifications, such as healthcare, which has high sensitivity and security risk. In light of the growing healthcare demands, <strong><em>this workshop aims to explore the potential of Medical Foundation Models (MFMs) in smart medical assistance, thereby improving patient outcomes and streamlining clinical workflows</em></strong>. Considering the primary clinical needs, we emphasize the <strong><em>explainability, robustness, and security</em></strong> of the large-scale multimodal medical assistant, pushing forward its reliability and trustworthiness. By bringing together expertise in diverse fields, we hope to bridge the gap between industry and academia regarding precision medicine, highlighting clinical requirements, inherent concerns, and AI solutions. Through this cooperative endeavor, we aim to unlock the potential of MFMs, striving for groundbreaking advancements in healthcare.
+
+We will also host a panel discussion focusing on MFM policies, regulations, and the diverse interests and concerns of stakeholders. These discussions aim to foster a deeper understanding and facilitate meaningful dialogue among industry experts, policymakers, and other key participants. 
+The panel discussion members include the following keynote speakers and Prof. Zhiyong Lu (Senior Investigator at NIH/NLM; Deputy Director for Literature Search at National Center for Biotechnology Information; Professor of Computer Science (Adjunct) at University of Illinois Urbana-Champaign, USA).
 
 		</div>
 	</div>
@@ -543,7 +546,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 
 
 
-<section class="container mx-auto px-4 py-4  mb-8">
+<!-- <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
 		<h2 class="text-4xl font-extrabold dark:text-white" id="panel"><a href="{base}/#panel">Panel Discussion</a></h2>
 
@@ -690,7 +693,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 		</div>
 
 	</div>
-</section>
+</section> -->
 
 
 
