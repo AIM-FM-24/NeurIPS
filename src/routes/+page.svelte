@@ -708,7 +708,7 @@ Despite the great success in general domains, FMs struggle in specific domains r
 	<div class="grid">
 		<h2 class="text-4xl font-extrabold dark:text-white " id="Contact"><a href="{base}/#Contact">Contact</a></h2>
 		  <div class="email-content">
-			<a href="aim.fm.neurips24@gmail.com">aim.fm.neurips24@gmail.com</a>
+			<a href="mailto:aim.fm.neurips24@gmail.com">aim.fm.neurips24@gmail.com</a>
 		  </div>
 	</div>
 </section>
