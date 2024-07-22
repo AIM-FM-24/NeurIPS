@@ -310,7 +310,7 @@ The panel discussion members include the following keynote speakers and <a href=
 
 <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white" id="speakers"><a href="{base}/#speakers">Panel Discussion (&dagger;) and Keynote Speakers (&starf;)</a></h2>
+		<h2 class="text-4xl font-extrabold dark:text-white" id="speakers"><a href="{base}/#speakers">Speakers: Panel Discussion (&dagger;) Keynote Speakers (&starf;)</a></h2>
 
 	<p style="margin-top: 20px;">
 		We will host a panel discussion focusing on MFM policies, regulations, and the diverse interests and concerns of stakeholders. These discussions aim to foster a deeper understanding and facilitate meaningful dialogue among industry experts, policymakers, and other key participants.
