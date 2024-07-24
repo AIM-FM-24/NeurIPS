@@ -319,30 +319,18 @@ The panel discussion members include the following keynote speakers and <a href=
 
 <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
+		<!-- <h2 class="text-4xl font-extrabold dark:text-white" id="speakers"><a href="{base}/#speakers">Speakers: Panel Discussion (&dagger;) Keynote Speakers (&starf;)</a></h2> -->
 		<h2 class="text-4xl font-extrabold dark:text-white" id="speakers"><a href="{base}/#speakers">Keynote Speakers (&starf;)</a></h2>
-<!-- Speakers: Panel Discussion () 
-	<p style="margin-top: 20px;">
+
+	<!-- <p style="margin-top: 20px;">
 		We will host a panel discussion focusing on MFM policies, regulations, and the diverse interests and concerns of stakeholders. These discussions aim to foster a deeper understanding and facilitate meaningful dialogue among industry experts, policymakers, and other key participants.
-	</p>-->
+	</p> -->
 
 		<div class="grid md:grid-cols-4 gap-4">
-			
-			<!-- <div class="grid gap-4">
-				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="luzh.png" style="width: 66%; margin: auto;" alt="Prof. Zhiyong Lu">
-					</a>
-					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://www.ncbi.nlm.nih.gov/research/bionlp" target="_blank" rel="noopener noreferrer">Prof. Zhiyong Lu </a></div>
-						<p class="text-gray-700 text-base">
-							Senior Investigator at NIH/NLM; Deputy Director for Literature Search at National Center for Biotechnology Information; Professor of Computer Science (Adjunct) at University of Illinois Urbana-Champaign, USA
-						</p>
-					</div>
-				</div>
-			</div> -->
+
 
 			
-			<!-- <div class="grid gap-4">
+			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">
 						<img class="aspect-square object-cover object-top" src="AnimashreeAnandkumar.png" style="width: 66%; margin: auto;" alt="Prof. Animashree Anandkumar">
@@ -355,22 +343,8 @@ The panel discussion members include the following keynote speakers and <a href=
 					</p>
 					</div>
 				</div>
-			</div> -->
-
-			<div class="grid gap-4">
-				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="TianmingLiu.png" style="width: 66%; margin: auto;" alt="Prof. Tianming Liu">
-					</a>
-					<div class="px-6 py-4">
-					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
-					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu &starf;</a></div>
-					<p class="text-gray-700 text-base">
-						Distinguished Research Professor at University of Georgia (UGA), USA; Director of UGA Bioimaging Research Center, UGA Institute of Bioinformatics, and UGA Institute of Artificial Intelligence.
-					</p>
-					</div>
-				</div>
 			</div>
+
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">
