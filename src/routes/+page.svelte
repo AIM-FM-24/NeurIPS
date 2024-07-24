@@ -339,7 +339,7 @@ The panel discussion members include the following keynote speakers and <a href=
 					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
 					<div class="font-bold text-xl mb-2"><a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">Prof. Animashree Anandkumar &starf;</a></div>
 					<p class="text-gray-700 text-base">
-						Bren Professor at California Institute of Technology, Pasadena, CA; Senior Director of AI Research at NVIDIA, Santa Clara, CA.
+						Bren Professor at California Institute of Technology, Pasadena, CA; Senior Director of AI Research at NVIDIA, Santa Clara, CA
 					</p>
 					</div>
 				</div>
