@@ -131,17 +131,17 @@ The panel discussion members include the following keynote speakers and <a href=
 	<div class="pt-4 text-xl">
 	<p class="mb-8">Key topics of interest for the workshop may cover, but are not limited to, the following aspects.</p>
     <ul class="list-disc list-inside space-y-4 pl-4">
-        <li><strong>MFMs at Scale</strong> Develop large-scale medical foundation models applicable for hospital use, including diagnosis, prognosis, treatment, surgical assistance.</li>
+        <li><strong>MFMs at Scale</strong> Develop large-scale medical foundation models applicable for hospital use, including diagnosis, prognosis, treatment, and surgical assistance.</li>
         <li><strong>Explainable MFMs</strong> Open the black box of MFMs in medical decision-making, ensuring transparency and interpretability.</li>
-        <li><strong>Robust Diagnosis</strong> Enhance the robustness of MFMs in diverse medical scenarios: scarcity/misalignment of medical data, parameter-efficient tuning, validation techniques.</li>
-        <li><strong>Patient Privacy</strong> Ensure data/model privacy in tuning and testing MFMs: federated learning, data encryption, machine unlearning.</li>
+        <li><strong>Robust Diagnosis</strong> Enhance the robustness of MFMs in diverse medical scenarios: scarcity/misalignment of medical data, parameter-efficient tuning, and validation techniques.</li>
+        <li><strong>Patient Privacy</strong> Ensure data/model privacy in tuning and testing MFMs: federated learning, data encryption, and machine unlearning.</li>
         <li><strong>MFMs with Resource Constraint</strong> Research on optimizing MFMs with constrained resources, e.g., constrained computation, limited data and annotations, etc.</li>
-        <li><strong>Human-AI Interaction</strong> Sudy the interaction dynamics to enhance the collaboration between healthcare professionals/patients and AI: prompt engineering, feedback refining, system designing.</li>
-        <li><strong>Multimodal Learning</strong> Effectively use heterogeneous medical data by addressing multi-modal challenges: modality misalignment and missing.</li>
-        <li><strong>Generative Model for Healthcare</strong> Develop generative models for producing multimodal data for healthcare: generative medical images, videos, reports, biology structures.</li>
-        <li><strong>Efficient MFMs</strong> Develop efficient MFMs in medical assistants: data efficiency, annotation efficiency, small foundation model.</li>
+        <li><strong>Human-AI Interaction</strong> Study the interaction dynamics to enhance the collaboration between healthcare professionals/patients and AI: prompt engineering, feedback refining, and system designing.</li>
+        <li><strong>Multimodal Learning</strong> Effectively use heterogeneous medical data by addressing multimodal challenges: modality misalignment and missing.</li>
+        <li><strong>Generative Model for Healthcare</strong> Develop generative models for producing multimodal data for healthcare: generative medical images, videos, reports, and biology structures.</li>
+        <li><strong>Efficient MFMs</strong> Develop efficient MFMs in medical assistants: data efficiency, annotation efficiency, and small foundation model.</li>
         <li><strong>Agent for Healthcare</strong> Towards the applications of AI agent systems in healthcare: diagnosis, prognosis, surgical assistance, telehealth.</li>
-        <li><strong>Fairness in MFMs</strong> Develop fair multimodal models in healthcare: addressing bias from data, model, annotation, evaluation.</li>
+        <li><strong>Fairness in MFMs</strong> Develop fair multimodal models in healthcare: addressing bias from data, model, annotation, and evaluation.</li>
     </ul>
 
 </div>
