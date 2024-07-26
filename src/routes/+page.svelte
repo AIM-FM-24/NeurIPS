@@ -606,7 +606,7 @@ The panel discussion members include the following keynote speakers and <a href=
 						<img class="aspect-square object-cover object-top" src="FanBai.png" style="width: 66%; margin: auto;" alt="Fan Bai">
 					</a> -->
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">Fan Bai</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">Dr. Fan Bai</a></div>
 						<p class="text-gray-700 text-base">
 							PhD at CUHK
 						</p>
