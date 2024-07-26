@@ -546,6 +546,20 @@ The panel discussion members include the following keynote speakers and <a href=
 				</div>
 			</div>
 
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://scholar.google.com/citations?user=QulpzUAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="WenjianQin.png" style="width: 66%; margin: auto;" alt="Prof. Wenjian Qin">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://scholar.google.com/citations?user=QulpzUAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Wenjian Qin</a></div>
+						<p class="text-gray-700 text-base">
+							Associate Professor at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China
+						</p>
+					</div>
+				</div>
+			</div>
+
 		</div>
 
 	</div>
