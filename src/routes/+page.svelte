@@ -567,65 +567,51 @@ The panel discussion members include the following keynote speakers and <a href=
 </section>
 
 
-<section class="container mx-auto px-4 py-4">
+<section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
 		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers"><a href="{base}/#students organizers">Students Organizers</a></h2>
+		<div class="grid md:grid-cols-4 gap-4">
 
-		
-		<div class="grid grid-cols-4 md:grid-cols-4 gap-8 py-6 ">
-			
 			<div class="grid gap-4">
-				<a href="https://wymancv.github.io/wuyang.github.io/">
-				<div class="flex items-center space-x-4 rtl:space-x-reverse">
-					<div class="flex-shrink-0">
-					   <img class="w-64 h-64 rounded-full" src="WuyangLi.png" alt="Neil image">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="WuyangLi.png" style="width: 66%; margin: auto;" alt="Wuyang Li">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">Wuyang Li</a></div>
+						<p class="text-gray-700 text-base">
+							Postdoctoral Fellow at CUHK
+						</p>
 					</div>
-					<div class="flex-1 min-w-0">
-					   <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
-						  Wuyang Li
-					   </p>
-					   <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-						  Postdoctoral Fellow at CUHK
-					   </p>
-					</div>
-				 </div>
-				</a>
+				</div>
 			</div>
 
 			<div class="grid gap-4">
-				<a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/">
-				<div class="flex items-center space-x-4 rtl:space-x-reverse">
-					<div class="flex-shrink-0">
-					   <img class="w-64 h-64 rounded-full" src="ZhihaoPeng.png" alt="Neil image">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="ZhihaoPeng.png" style="width: 66%; margin: auto;" alt="Zhihao Peng">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">Zhihao Peng</a></div>
+						<p class="text-gray-700 text-base">
+							Postdoctoral Fellow at CUHK
+						</p>
 					</div>
-					<div class="flex-1 min-w-0">
-					   <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
-						  Zhihao Peng
-					   </p>
-					   <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-						  Postdoctoral Fellow at CUHK
-					   </p>
-					</div>
-				 </div>
-				</a>
+				</div>
 			</div>
 
 			<div class="grid gap-4">
-				<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate">
-				<div class="flex items-center space-x-4 rtl:space-x-reverse">
-					<div class="flex-shrink-0">
-					   <img class="w-64 h-64 rounded-full" src="FanBai.png" alt="Neil image">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="FanBai.png" style="width: 66%; margin: auto;" alt="Fan Bai">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">Fan Bai</a></div>
+						<p class="text-gray-700 text-base">
+							PhD at CUHK
+						</p>
 					</div>
-					<div class="flex-1 min-w-0">
-					   <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
-						  Fan Bai
-					   </p>
-					   <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-						  PhD at CUHK
-					   </p>
-					</div>
-				 </div>
-				</a>
+				</div>
 			</div>
 
 		</div>
