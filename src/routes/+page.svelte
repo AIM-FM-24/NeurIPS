@@ -60,7 +60,7 @@
 		<!-- <NavLi href="{base}/#schedule">Schedule</NavLi> -->
 		<NavLi href="{base}/#speakers">Speakers</NavLi>
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
-		<NavLi href="{base}/#students organizers">Students Organizers</NavLi>
+		<!-- <NavLi href="{base}/#students organizers">Students Organizers</NavLi> -->
 		<!-- <NavLi href="{base}/#panel">Panel Discussion</NavLi> -->
 		<NavLi href="{base}/#Contact">Contact</NavLi>
 	</NavUl>
@@ -568,7 +568,7 @@ The panel discussion members include the following keynote speakers and <a href=
 
 <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers"><a href="{base}/#students organizers">Students Organizers</a></h2>
+		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers">">Students Organizers</h2> <!-- <a href="{base}/#students organizers">Students Organizers</a></h2> -->
 		<div class="grid md:grid-cols-4 gap-4">
 
 			<div class="grid gap-4">
@@ -577,7 +577,7 @@ The panel discussion members include the following keynote speakers and <a href=
 						<img class="aspect-square object-cover object-top" src="ZhihaoPeng.png" style="width: 66%; margin: auto;" alt="Zhihao Peng">
 					</a> -->
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">Zhihao Peng</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">Dr. Zhihao Peng</a></div>
 						<p class="text-gray-700 text-base">
 							Postdoctoral Fellow at CUHK
 						</p>
@@ -591,7 +591,7 @@ The panel discussion members include the following keynote speakers and <a href=
 						<img class="aspect-square object-cover object-top" src="WuyangLi.png" style="width: 66%; margin: auto;" alt="Wuyang Li">
 					</a> -->
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">Wuyang Li</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">Dr. Wuyang Li</a></div>
 						<p class="text-gray-700 text-base">
 							Postdoctoral Fellow at CUHK
 						</p>
