@@ -155,7 +155,7 @@ The panel discussion members include the following keynote speakers and <a href=
 		<div class="pt-4"><p class="text-xl">
 	<div class="pt-4 text-xl">
     	<ul class="list-disc list-inside space-y-4 pl-4">
-	<li><strong>Submission Link: </strong> Papers should be submitted at the <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM" class="text-gray-600 hover:text-gray-900">OpenReview</a> website.</li>
+	<li><strong>Submission Link: </strong> Papers should be submitted at the <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM" class="text-gray-600 hover:text-gray-900" style="color:blue;">OpenReview</a> website.</li>
         <li><strong>Submission Deadline: 	</strong> Aug 30, 2024, 23:59 UTC-0.</li>
         <li><strong>Accept/Reject Notification: </strong> Oct 13, 2024, 23:59 UTC-0.</li>
 	<!-- mandatory acc/rej deadline -->
