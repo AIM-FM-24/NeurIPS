@@ -60,6 +60,7 @@
 		<!-- <NavLi href="{base}/#schedule">Schedule</NavLi> -->
 		<NavLi href="{base}/#speakers">Speakers</NavLi>
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
+		<NavLi href="{base}/#students organizers">Students Organizers</NavLi>
 		<!-- <NavLi href="{base}/#panel">Panel Discussion</NavLi> -->
 		<NavLi href="{base}/#Contact">Contact</NavLi>
 	</NavUl>
@@ -567,6 +568,33 @@ The panel discussion members include the following keynote speakers and <a href=
 
 
 
+<section class="container mx-auto px-4 py-4  mb-8">
+	<div class="grid">
+		<h2 class="text-4xl font-extrabold dark:text-white" id="organizers"><a href="{base}/#organizers">Organizers</a></h2>
+
+		<div class="grid md:grid-cols-4 gap-4">
+			
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="YixuanYuan_v2.png" style="width: 66%; margin: auto;" alt="Prof. Yixuan Yuan">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">Prof. Yixuan Yuan</a></div>
+						<p class="text-gray-700 text-base">
+							Assistant Professor at The Chinese University of Hong Kong, China
+						</p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+</section>
+
+
+
 
 <section class="container mx-auto px-4 py-4">
 	<div class="grid">
@@ -586,31 +614,64 @@ The panel discussion members include the following keynote speakers and <a href=
 
 <!-- <section class="container mx-auto px-4 py-4">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white " id="organizers"><a href="{base}/#organizers">Organizers</a></h2>
+		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers"><a href="{base}/#students organizers">Students Organizers</a></h2>
 
 		
 		<div class="grid grid-cols-4 md:grid-cols-4 gap-8 py-6 ">
 			
 			<div class="grid gap-4">
-				<a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan">
+				<a href="https://wymancv.github.io/wuyang.github.io/">
 				<div class="flex items-center space-x-4 rtl:space-x-reverse">
 					<div class="flex-shrink-0">
-					   <img class="w-64 h-64 rounded-full" src="yixuan_1.jpg" alt="Neil image">
+					   <img class="w-64 h-64 rounded-full" src="WuyangLi.png" alt="Neil image">
 					</div>
 					<div class="flex-1 min-w-0">
 					   <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
-						  Yixuan Yuan
+						  Wuyang Li
 					   </p>
 					   <p class="text-sm text-gray-500 truncate dark:text-gray-400">
-						  Assistant Professor at CUHK
+						  Postdoctoral Fellow at CUHK
 					   </p>
 					</div>
 				 </div>
 				</a>
 			</div>
 
-		
+			<div class="grid gap-4">
+				<a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/">
+				<div class="flex items-center space-x-4 rtl:space-x-reverse">
+					<div class="flex-shrink-0">
+					   <img class="w-64 h-64 rounded-full" src="ZhihaoPeng.png" alt="Neil image">
+					</div>
+					<div class="flex-1 min-w-0">
+					   <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+						  Zhihao Peng
+					   </p>
+					   <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+						  Postdoctoral Fellow at CUHK
+					   </p>
+					</div>
+				 </div>
+				</a>
+			</div>
 
+			<div class="grid gap-4">
+				<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate">
+				<div class="flex items-center space-x-4 rtl:space-x-reverse">
+					<div class="flex-shrink-0">
+					   <img class="w-64 h-64 rounded-full" src="FanBai.png" alt="Neil image">
+					</div>
+					<div class="flex-1 min-w-0">
+					   <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+						  Fan Bai
+					   </p>
+					   <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+						  PhD at CUHK
+					   </p>
+					</div>
+				 </div>
+				</a>
+			</div>
 
 		</div>
 
