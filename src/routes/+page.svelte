@@ -434,6 +434,20 @@ The panel discussion members include the following keynote speakers and <a href=
 				</div>
 			</div>
 
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 93%; margin: auto;" alt="Karan Singhal">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal</a></div>
+						<p class="text-gray-700 text-base">
+							Staff research scientist at OpenAI, co-leading teams working on medical AI, foundation models, USA
+						</p>
+					</div>
+				</div>
+			</div>
+
 
 		</div>
 
