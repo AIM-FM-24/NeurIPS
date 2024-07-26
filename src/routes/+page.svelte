@@ -567,45 +567,6 @@ The panel discussion members include the following keynote speakers and <a href=
 </section>
 
 
-
-<section class="container mx-auto px-4 py-4  mb-8">
-	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white" id="organizers"><a href="{base}/#organizers">Organizers</a></h2>
-
-		<div class="grid md:grid-cols-4 gap-4">
-			
-			<div class="grid gap-4">
-				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="YixuanYuan_v2.png" style="width: 66%; margin: auto;" alt="Prof. Yixuan Yuan">
-					</a>
-					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan" target="_blank" rel="noopener noreferrer">Prof. Yixuan Yuan</a></div>
-						<p class="text-gray-700 text-base">
-							Assistant Professor at The Chinese University of Hong Kong, China
-						</p>
-					</div>
-				</div>
-			</div>
-
-		</div>
-
-	</div>
-</section>
-
-
-
-
-<section class="container mx-auto px-4 py-4">
-	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white " id="Contact"><a href="{base}/#Contact">Contact</a></h2>
-		  <div class="email-content col-md-6"> 
-			<p class="mb-8"><a href="mailto:aim.fm.neurips24@gmail.com">aim.fm.neurips24@gmail.com</a></p>
-		  </div>
-	</div>
-</section>
-
-
 <section class="container mx-auto px-4 py-4">
 	<div class="grid">
 		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers"><a href="{base}/#students organizers">Students Organizers</a></h2>
@@ -671,6 +632,21 @@ The panel discussion members include the following keynote speakers and <a href=
 
 	</div>
 </section>
+
+
+
+
+
+
+<section class="container mx-auto px-4 py-4">
+	<div class="grid">
+		<h2 class="text-4xl font-extrabold dark:text-white " id="Contact"><a href="{base}/#Contact">Contact</a></h2>
+		  <div class="email-content col-md-6"> 
+			<p class="mb-8"><a href="mailto:aim.fm.neurips24@gmail.com">aim.fm.neurips24@gmail.com</a></p>
+		  </div>
+	</div>
+</section>
+
 
 
 
