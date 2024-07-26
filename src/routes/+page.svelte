@@ -554,7 +554,7 @@ The panel discussion members include the following keynote speakers and <a href=
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://scholar.google.com/citations?user=QulpzUAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Wenjian Qin</a></div>
 						<p class="text-gray-700 text-base">
-							Associate Professor at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China
+							Professor at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China
 						</p>
 					</div>
 				</div>
