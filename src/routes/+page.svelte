@@ -568,7 +568,7 @@ The panel discussion members include the following keynote speakers and <a href=
 
 <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers">">Students Organizers</h2> <!-- <a href="{base}/#students organizers">Students Organizers</a></h2> -->
+		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers">Students Organizers</h2> <!-- <a href="{base}/#students organizers">Students Organizers</a></h2> -->
 		<div class="grid md:grid-cols-4 gap-4">
 
 			<div class="grid gap-4">
