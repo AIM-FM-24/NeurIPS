@@ -573,23 +573,9 @@ The panel discussion members include the following keynote speakers and <a href=
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="WuyangLi.png" style="width: 66%; margin: auto;" alt="Wuyang Li">
-					</a>
-					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">Wuyang Li</a></div>
-						<p class="text-gray-700 text-base">
-							Postdoctoral Fellow at CUHK
-						</p>
-					</div>
-				</div>
-			</div>
-
-			<div class="grid gap-4">
-				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">
+					<!-- <a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">
 						<img class="aspect-square object-cover object-top" src="ZhihaoPeng.png" style="width: 66%; margin: auto;" alt="Zhihao Peng">
-					</a>
+					</a> -->
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">Zhihao Peng</a></div>
 						<p class="text-gray-700 text-base">
@@ -601,9 +587,24 @@ The panel discussion members include the following keynote speakers and <a href=
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">
+					<!-- <a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="WuyangLi.png" style="width: 66%; margin: auto;" alt="Wuyang Li">
+					</a> -->
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">Wuyang Li</a></div>
+						<p class="text-gray-700 text-base">
+							Postdoctoral Fellow at CUHK
+						</p>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<!-- <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">
 						<img class="aspect-square object-cover object-top" src="FanBai.png" style="width: 66%; margin: auto;" alt="Fan Bai">
-					</a>
+					</a> -->
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">Fan Bai</a></div>
 						<p class="text-gray-700 text-base">
