@@ -156,7 +156,10 @@ The panel discussion members include the following keynote speakers and <a href=
 		<div class="pt-4"><p class="text-xl">
 	<div class="pt-4 text-xl">
     	<ul class="list-disc list-inside space-y-4 pl-4">
-	<li><strong>Submission Link: </strong> Papers should be submitted at the <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM" class="text-gray-600 hover:text-gray-900" style="color:blue;">OpenReview</a> website.</li>
+	<p> The main text of a submitted paper is limited to <strong>nine content pages</strong>, including all figures and tables. Authors are encouraged to submit a separate ZIP file that contains any supplementary material, such as data or source code, when applicable.
+	The submission must be formatted using the NeurIPS 2024 template, and the submissions will be collected on <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM" class="text-gray-600 hover:text-gray-900" style="color:blue;">OpenReview</a>, where the files must be in PDF format as a single PDF file.
+	The reviewing process will be <strong>double-blind</strong>, and all submissions must be anonymized. This means that you should not include any author names, author affiliations, acknowledgments, or any other identifying information in your submission. Accepted papers and their review comments will be posted publicly on OpenReview.
+	</p>
         <li><strong>Submission Deadline: 	</strong> Aug 30, 2024, 23:59 UTC-0.</li>
         <li><strong>Accept/Reject Notification: </strong> Oct 13, 2024, 23:59 UTC-0.</li>
 	<!-- mandatory acc/rej deadline -->
