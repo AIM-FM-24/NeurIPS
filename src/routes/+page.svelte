@@ -170,171 +170,13 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 	</div>
 </section>
 
-<!-- <section class="container mx-auto px-4 py-4">
-	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white" id="schedule"><a href="{base}/#schedule">Schedule</a></h2>
-		
-		
-		<div class="py-4">
-		<div class="relative overflow-x-auto shadow-md sm:rounded-lg">
-			<table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
-				<thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
-					<tr>
-						<th scope="col" class="px-6 py-3">
-							Time
-						</th>
-						<th scope="col" class="px-6 py-3">
-							Speaker
-						</th>
-						<th scope="col" class="px-6 py-3">
-							Topic
-						</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							9:00 - 10:15
-						</th>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							10:15 - 10:30
-						</th>
-						<td class="px-6 py-4">
-							☕
-						</td>
-						<td class="px-6 py-4">
-							15 min break
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							10:30 - 11:15
-						</th>
-						<td class="px-6 py-4">
-							Prof. Christian Theobalt
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							11:15 - 12:00
-						</th>
-						<td class="px-6 py-4">
-							Prof. Yaser Sheikh
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							12:00 - 1:00
-						</th>
-						<td class="px-6 py-4">
-							🥪
-						</td>
-						<td class="px-6 py-4">
-							Lunch break
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							1:00 - 1:45
-						</th>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							1:45 - 2:30
-						</th>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							2:30 - 3:15
-						</th>
-						<td class="px-6 py-4">
-							Prof. Michael Black
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							3:15 - 3:30
-						</th>
-						<td class="px-6 py-4">
-							☕
-						</td>
-						<td class="px-6 py-4">
-							15 min break
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							3:30 - 4:15
-						</th>
-						<td class="px-6 py-4">
-							Prof. Angela Dai
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-					<tr class="odd:bg-white odd:dark:bg-gray-900 even:bg-gray-50 even:dark:bg-gray-800 border-b dark:border-gray-700">
-						<th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
-							4:15 - 5:00
-						</th>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-						<td class="px-6 py-4">
-							TBD
-						</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-
-
-	</div>
-</section> -->
-
-
 <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
 		<!-- <h2 class="text-4xl font-extrabold dark:text-white" id="speakers"><a href="{base}/#speakers">Speakers: Panel Discussion (&dagger;) Keynote Speakers (&starf;)</a></h2> -->
-		<h2 class="text-4xl font-extrabold dark:text-white" id="speakers"><a href="{base}/#speakers">Keynote Speakers (&starf;)</a></h2>
+		<h2 class="text-4xl font-extrabold dark:text-white" id="speakers"><a href="{base}/#speakers">Invited Speakers and Panelists</a></h2>
 
-	<!-- <p style="margin-top: 20px;">
-		We will host a panel discussion focusing on MFM policies, regulations, and the diverse interests and concerns of stakeholders. These discussions aim to foster a deeper understanding and facilitate meaningful dialogue among industry experts, policymakers, and other key participants.
-	</p> -->
 
 		<div class="grid md:grid-cols-4 gap-4">
-
-
-			
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">
@@ -356,7 +198,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 					</a>
 					<div class="px-6 py-4">
 					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
-					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu &starf;</a></div>
+					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu;</a></div>
 					<p class="text-gray-700 text-base">
 						Distinguished Research Professor at University of Georgia (UGA), USA; Director of UGA Bioimaging Research Center, UGA Institute of Bioinformatics, and UGA Institute of Artificial Intelligence
 					</p>
@@ -370,7 +212,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="PearseKeane.png" style="width: 66%; margin: auto;" alt="Prof. Pearse Keane">
 					</a>
 					<div class="px-6 py-4">
-					<div class="font-bold text-xl mb-2"><a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">Prof. Pearse Keane &starf;</a></div>
+					<div class="font-bold text-xl mb-2"><a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">Prof. Pearse Keane;</a></div>
 					<p class="text-gray-700 text-base">
 						Professor of Artificial Medical Intelligence at UCL Institute of Ophthalmology; Consultant ophthalmologist at Moorfields Eye Hospital, London
 						
@@ -387,7 +229,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="JamesZou.png" style="width: 66%; margin: auto;" alt="Prof. James Zou">
 					</a>
 					<div class="px-6 py-4">
-					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou &starf;</a></div>
+					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou;</a></div>
 
 					<p class="text-gray-700 text-base">
 						Associate Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University, USA
@@ -402,7 +244,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="mahmood_faisal.png" style="width: 66%; margin: auto;" alt="Prof. Faisal Mahmood">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">Prof. Faisal Mahmood &starf;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">Prof. Faisal Mahmood;</a></div>
 						<p class="text-gray-700 text-base">
 							Associate Professor at Harvard Medical School, USA; Lead Investigator of Brigham and Women's Hospital 
 						</p>
@@ -415,7 +257,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="ShengWang.png" style="width: 66%; margin: auto;" alt="Prof. Sheng Wang">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">Prof. Sheng Wang &starf;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">Prof. Sheng Wang;</a></div>
 						<p class="text-gray-700 text-base">
 							Assistant Professor at University of Washington, Seattle, USA
 
@@ -429,7 +271,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="Shekoofeh Azizi.png" style="width: 66%; margin: auto;" alt="Dr. Shekoofeh Azizi">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi &starf;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi;</a></div>
 						<p class="text-gray-700 text-base">
 							Staff research scientist at Google DeepMind (formerly Google Brain) and a research lead for Health AI at Google DeepMind, Canada 
 
@@ -444,9 +286,9 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 66%; margin: auto;" alt="Karan Singhal">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal &starf;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal;</a></div>
 						<p class="text-gray-700 text-base">
-							Staff research scientist at OpenAI, co-leading teams working on medical AI, foundation models, USA
+							OpenAI; Work experience on medical AI, foundation models, USA
 						</p>
 					</div>
 				</div>
@@ -572,14 +414,14 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 
 <section class="container mx-auto px-4 py-4  mb-8">
 	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers">Students Organizers</h2> <!-- <a href="{base}/#students organizers">Students Organizers</a></h2> -->
+		<h2 class="text-4xl font-extrabold dark:text-white " id="students organizers">Student Organizers</h2> <!-- <a href="{base}/#students organizers">Students Organizers</a></h2> -->
 		<div class="grid md:grid-cols-4 gap-4">
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<!-- <a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">
+					<a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">
 						<img class="aspect-square object-cover object-top" src="ZhihaoPeng.png" style="width: 66%; margin: auto;" alt="Zhihao Peng">
-					</a> -->
+					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://zhihaopeng-cityu.github.io/ZhihaoPENG_homepage/" target="_blank" rel="noopener noreferrer">Dr. Zhihao Peng</a></div>
 						<p class="text-gray-700 text-base">
@@ -591,9 +433,9 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<!-- <a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="WuyangLi.png" style="width: 66%; margin: auto;" alt="Wuyang Li">
-					</a> -->
+					<a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="Wuyang2.png" style="width: 66%; margin: auto;" alt="Wuyang Li">
+					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://wymancv.github.io/wuyang.github.io/" target="_blank" rel="noopener noreferrer">Dr. Wuyang Li</a></div>
 						<p class="text-gray-700 text-base">
@@ -606,17 +448,35 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<!-- <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="FanBai.png" style="width: 66%; margin: auto;" alt="Fan Bai">
-					</a> -->
+					<a href="https://baifanxxx.github.io/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="FanBai2.png" style="width: 66%; margin: auto;" alt="Fan Bai">
+					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=jWKTSIEAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">Dr. Fan Bai</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://baifanxxx.github.io/" target="_blank" rel="noopener noreferrer">Dr. Fan Bai</a></div>
 						<p class="text-gray-700 text-base">
 							PhD at CUHK
 						</p>
 					</div>
 				</div>
 			</div>
+
+
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://mehak126.github.io/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="Mehak.png" style="width: 66%; margin: auto;" alt="Fan Bai">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://mehak126.github.io/" target="_blank" rel="noopener noreferrer">Dr. Mehak Preet Dhaliwal</a></div>
+						<p class="text-gray-700 text-base">
+							PhD at University of California, Santa Barbara
+						</p>
+					</div>
+				</div>
+			</div>
+
+
+
 
 		</div>
 
