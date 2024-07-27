@@ -467,7 +467,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="Mehak.png" style="width: 66%; margin: auto;" alt="Fan Bai">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://mehak126.github.io/" target="_blank" rel="noopener noreferrer">Dr. Mehak Preet Dhaliwal</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://mehak126.github.io/" target="_blank" rel="noopener noreferrer">Mehak Preet Dhaliwal</a></div>
 						<p class="text-gray-700 text-base">
 							PhD at University of California, Santa Barbara
 						</p>
