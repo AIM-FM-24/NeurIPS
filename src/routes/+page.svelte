@@ -183,7 +183,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="AnimashreeAnandkumar.png" style="width: 66%; margin: auto;" alt="Prof. Animashree Anandkumar">
 					</a>
 					<div class="px-6 py-4">
-					<div class="font-bold text-xl mb-2"><a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">Prof. Animashree Anandkumar &starf;</a></div>
+					<div class="font-bold text-xl mb-2"><a href="https://www.eas.caltech.edu/people/anima" target="_blank" rel="noopener noreferrer">Prof. Animashree Anandkumar</a></div>
 					<p class="text-gray-700 text-base">
 						Bren Professor at California Institute of Technology, Pasadena, CA; Senior Director of AI Research at NVIDIA, Santa Clara, CA
 					</p>
@@ -212,7 +212,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="PearseKeane.png" style="width: 66%; margin: auto;" alt="Prof. Pearse Keane">
 					</a>
 					<div class="px-6 py-4">
-					<div class="font-bold text-xl mb-2"><a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">Prof. Pearse Keane;</a></div>
+					<div class="font-bold text-xl mb-2"><a href="https://www.ucl.ac.uk/ioo/people/pearse-keane" target="_blank" rel="noopener noreferrer">Prof. Pearse Keane</a></div>
 					<p class="text-gray-700 text-base">
 						Professor of Artificial Medical Intelligence at UCL Institute of Ophthalmology; Consultant ophthalmologist at Moorfields Eye Hospital, London
 						
@@ -229,7 +229,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="JamesZou.png" style="width: 66%; margin: auto;" alt="Prof. James Zou">
 					</a>
 					<div class="px-6 py-4">
-					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou;</a></div>
+					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou</a></div>
 
 					<p class="text-gray-700 text-base">
 						Associate Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University, USA
@@ -244,7 +244,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="mahmood_faisal.png" style="width: 66%; margin: auto;" alt="Prof. Faisal Mahmood">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">Prof. Faisal Mahmood;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://dms.hms.harvard.edu/people/faisal-mahmood" target="_blank" rel="noopener noreferrer">Prof. Faisal Mahmood</a></div>
 						<p class="text-gray-700 text-base">
 							Associate Professor at Harvard Medical School, USA; Lead Investigator of Brigham and Women's Hospital 
 						</p>
@@ -257,7 +257,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="ShengWang.png" style="width: 66%; margin: auto;" alt="Prof. Sheng Wang">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">Prof. Sheng Wang;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">Prof. Sheng Wang</a></div>
 						<p class="text-gray-700 text-base">
 							Assistant Professor at University of Washington, Seattle, USA
 
@@ -271,7 +271,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="Shekoofeh Azizi.png" style="width: 66%; margin: auto;" alt="Dr. Shekoofeh Azizi">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi</a></div>
 						<p class="text-gray-700 text-base">
 							Staff research scientist at Google DeepMind (formerly Google Brain) and a research lead for Health AI at Google DeepMind, Canada 
 
@@ -286,7 +286,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 66%; margin: auto;" alt="Karan Singhal">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal;</a></div>
+						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal</a></div>
 						<p class="text-gray-700 text-base">
 							OpenAI; Work experience on medical AI, foundation models, USA
 						</p>
