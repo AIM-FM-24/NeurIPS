@@ -193,15 +193,15 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="TianmingLiu.png" style="width: 66%; margin: auto;" alt="Prof. Tianming Liu">
+					<a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="Shekoofeh Azizi.png" style="width: 66%; margin: auto;" alt="Dr. Shekoofeh Azizi">
 					</a>
 					<div class="px-6 py-4">
-					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
-					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu</a></div>
-					<p class="text-gray-700 text-base">
-						Distinguished Research Professor at University of Georgia (UGA), USA; Director of UGA Bioimaging Research Center, UGA Institute of Bioinformatics, and UGA Institute of Artificial Intelligence
-					</p>
+						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi</a></div>
+						<p class="text-gray-700 text-base">
+							Staff research scientist at Google DeepMind (formerly Google Brain) and a research lead for Health AI at Google DeepMind, Canada 
+
+						</p>
 					</div>
 				</div>
 			</div>
@@ -220,19 +220,17 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 					</div>
 				</div>
 			</div>
-	
-
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="JamesZou.png" style="width: 66%; margin: auto;" alt="Prof. James Zou">
+					<a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="TianmingLiu.png" style="width: 66%; margin: auto;" alt="Prof. Tianming Liu">
 					</a>
 					<div class="px-6 py-4">
-					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou</a></div>
-
+					<!-- <div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/">Prof. Tianming Liu</a></div> -->
+					<div class="font-bold text-xl mb-2"><a href="https://cobweb.cs.uga.edu/~tliu/" target="_blank" rel="noopener noreferrer">Prof. Tianming Liu</a></div>
 					<p class="text-gray-700 text-base">
-						Associate Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University, USA
+						Distinguished Research Professor at University of Georgia (UGA), USA; Director of UGA Bioimaging Research Center, UGA Institute of Bioinformatics, and UGA Institute of Artificial Intelligence
 					</p>
 					</div>
 				</div>
@@ -251,6 +249,21 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 					</div>
 				</div>
 			</div>
+
+			<div class="grid gap-4">
+				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
+					<a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 66%; margin: auto;" alt="Karan Singhal">
+					</a>
+					<div class="px-6 py-4">
+						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal</a></div>
+						<p class="text-gray-700 text-base">
+							OpenAI; Work experience on medical AI, foundation models, USA
+						</p>
+					</div>
+				</div>
+			</div>
+			
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://homes.cs.washington.edu/~swang/" target="_blank" rel="noopener noreferrer">
@@ -264,32 +277,19 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 						</p>
 					</div>
 				</div>
-			</div>
-			<div class="grid gap-4">
-				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="Shekoofeh Azizi.png" style="width: 66%; margin: auto;" alt="Dr. Shekoofeh Azizi">
-					</a>
-					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://research.google/people/ShekoofehAzizi/" target="_blank" rel="noopener noreferrer">Dr. Shekoofeh Azizi</a></div>
-						<p class="text-gray-700 text-base">
-							Staff research scientist at Google DeepMind (formerly Google Brain) and a research lead for Health AI at Google DeepMind, Canada 
-
-						</p>
-					</div>
-				</div>
-			</div>
+			</div>			
 
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
-					<a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="karan.png" style="width: 66%; margin: auto;" alt="Karan Singhal">
+					<a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">
+						<img class="aspect-square object-cover object-top" src="JamesZou.png" style="width: 66%; margin: auto;" alt="Prof. James Zou">
 					</a>
 					<div class="px-6 py-4">
-						<div class="font-bold text-xl mb-2"><a href="https://www.karansinghal.com/" target="_blank" rel="noopener noreferrer">Karan Singhal</a></div>
-						<p class="text-gray-700 text-base">
-							OpenAI; Work experience on medical AI, foundation models, USA
-						</p>
+					<div class="font-bold text-xl mb-2"><a href="https://www.james-zou.com/" target="_blank" rel="noopener noreferrer">Prof. James Zou</a></div>
+
+					<p class="text-gray-700 text-base">
+						Associate Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University, USA
+					</p>
 					</div>
 				</div>
 			</div>
