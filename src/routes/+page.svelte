@@ -449,7 +449,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 			<div class="grid gap-4">
 				<div class="py-4 max-w-sm rounded overflow-hidden shadow-lg">
 					<a href="https://baifanxxx.github.io/" target="_blank" rel="noopener noreferrer">
-						<img class="aspect-square object-cover object-top" src="FanBai2.png" style="width: 66%; margin: auto;" alt="Fan Bai">
+						<img class="aspect-square object-cover object-top" src="FanBai3.png" style="width: 66%; margin: auto;" alt="Fan Bai">
 					</a>
 					<div class="px-6 py-4">
 						<div class="font-bold text-xl mb-2"><a href="https://baifanxxx.github.io/" target="_blank" rel="noopener noreferrer">Dr. Fan Bai</a></div>
