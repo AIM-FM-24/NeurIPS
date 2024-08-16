@@ -162,7 +162,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 	The reviewing process will be <strong>double-blind</strong>, and all submissions must be anonymized. This means that you should not include any author names, author affiliations, acknowledgments, or any other identifying information in your submission.
 	</p>
         <li><strong>Submission Deadline: 	</strong> Aug 30, 2024, 23:59 UTC-0.</li>
-        <li><strong>Accept/Reject Notification: </strong> Oct 13, 2024, 23:59 UTC-0.</li>
+        <li><strong>Workshop Accept/Reject Notification: </strong> Oct 09 '24 (Anywhere on Earth).</li>
 	<!-- mandatory acc/rej deadline -->
     </ul>
 
