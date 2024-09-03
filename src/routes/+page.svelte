@@ -161,7 +161,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 	The submission must be formatted using the <a href="https://github.com/AIM-FM-24/NeurIPS/blob/main/static/AIM-FM-24.zip" class="text-gray-600 hover:text-gray-900" style="color:blue;">NeurIPS'24 template</a> and will be collected on the <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/AIM-FM" class="text-gray-600 hover:text-gray-900" style="color:blue;">OpenReview</a> website, where the files must be in PDF format as a single PDF file.
 	The reviewing process will be <strong>double-blind</strong>, and all submissions must be anonymized. This means that you should not include any author names, author affiliations, acknowledgments, or any other identifying information in your submission.
 	</p>
-        <li><strong>Submission Deadline: 	</strong> <p style="color:red;"> Extended to Sept 26, 2024, 23:59 UTC-0. </p> </li>
+        <li><strong>Submission Deadline: </strong> <span style="color:red;">Extended to Sept 26, 2024, 23:59 UTC-0.</span></li>
         <li><strong>Workshop Accept/Reject Notification: </strong> Oct 09 '24 (Anywhere on Earth).</li>
 	<!-- mandatory acc/rej deadline -->
     </ul>
