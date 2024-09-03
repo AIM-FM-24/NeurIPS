@@ -163,7 +163,7 @@ Authors are encouraged to submit a separate ZIP file that contains any supplemen
 	</p>
         <li><strong>Submission Deadline: </strong> Extended to Sep 26, 2024, 11:59PM UTC-0. </li>
         <li><strong>Workshop Accept/Reject Notification: </strong> Oct 09 '24 (Anywhere on Earth).</li>
-	<!-- mandatory acc/rej deadline <del>Aug 30, 2024, 23:59 UTC-0.</del>  -->
+	<!-- mandatory acc/rej deadline -->
     </ul>
 
 </div>
