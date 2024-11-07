@@ -56,8 +56,8 @@
 		<NavLi href="{base}/" active={true}>Home</NavLi>
 		<NavLi href="{base}/#overview">Overview</NavLi>
 		<NavLi href="{base}/#Topics">Topics</NavLi>
+		<NavLi href="{base}/#Schedule">Schedule</NavLi>
 		<NavLi href="{base}/#Submissions">Submissions</NavLi>
-		<!-- <NavLi href="{base}/#schedule">Schedule</NavLi> -->
 		<NavLi href="{base}/#speakers">Speakers</NavLi>
 		<NavLi href="{base}/#organizers">Organizers</NavLi>
 		<!-- <NavLi href="{base}/#students organizers">Students Organizers</NavLi> -->
@@ -143,6 +143,33 @@ The panel discussion members include the following keynote speakers and <a href=
         <li><strong>Efficient MFMs</strong> Develop efficient MFMs in medical assistants: data efficiency, annotation efficiency, and small foundation model.</li>
         <li><strong>Agent for Healthcare</strong> Towards the applications of AI agent systems in healthcare: diagnosis, prognosis, surgical assistance, telehealth.</li>
         <li><strong>Fairness in MFMs</strong> Develop fair multimodal models in healthcare: addressing bias from data, model, annotation, and evaluation.</li>
+    </ul>
+
+</div>
+	</div>
+</section>
+
+
+<section class="container mx-auto px-4 mb-8 ">
+	<div class="grid">
+		<h2 class="text-4xl font-extrabold dark:text-white" id="Schedule"><a href="{base}/#Schedule">NeurIPS 2024 Workshop Schedule</a></h2>
+		<div class="pt-4"><p class="text-xl">
+	<div class="pt-4 text-xl">
+	<p> <strong>Morning Session</strong> </p>
+	<ul>
+	<li>8:30 - 8:40 AM: Introduction </li>
+	<li>8:40 - 9:20 AM: Speaker: Pearse Keane </li>
+	<li>9:20 - 10:00 AM: Speaker: Faisal Mahmood </li>
+	<li>10:00 - 10:10 AM: Break (10 minutes) </li>
+	<li>10:10 - 10:50 AM: Speaker: Sheng Wang </li>
+	<li>10:50 - 11:30 AM: Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi </li>
+	<li>11:30 AM - 12:30 PM: Poster Session </li>
+	</ul>
+
+	<ul class="list-disc list-inside space-y-4 pl-4">
+        <li><strong>Submission Deadline: </strong> <span style="color:red;">Extended to Sept 26, 2024, 23:59 UTC-0.</span></li>
+        <li><strong>Workshop Accept/Reject Notification: </strong> Oct 09 '24 (Anywhere on Earth).</li>
+	<!-- mandatory acc/rej deadline -->
     </ul>
 
 </div>
