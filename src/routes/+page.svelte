@@ -164,13 +164,21 @@ The panel discussion members include the following keynote speakers and <a href=
 	<li>10:10 - 10:50 AM: Speaker: Sheng Wang </li>
 	<li>10:50 - 11:30 AM: Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi </li>
 	<li>11:30 AM - 12:30 PM: Poster Session </li>
+	<li>12:30 - 1:30 PM: Lunch Break <\li>
 	</ul>
 
-	<ul class="list-disc list-inside space-y-4 pl-4">
-        <li><strong>Submission Deadline: </strong> <span style="color:red;">Extended to Sept 26, 2024, 23:59 UTC-0.</span></li>
-        <li><strong>Workshop Accept/Reject Notification: </strong> Oct 09 '24 (Anywhere on Earth).</li>
-	<!-- mandatory acc/rej deadline -->
-    </ul>
+	<p> <strong>Afternoon Session</strong> </p>
+	<ul>
+	<li>1:30 - 2:10 PM: Speaker: Tianming Liu </li>
+	<li>2:10 - 2:50 PM: Speaker: James Zou </li>
+	<li>2:50 - 3:00 PM: Break (10 minutes) </li>
+	<li>3:00 - 4:00 PM: Oral Session </li>
+	<li>4:00 - 4:40 PM: Speaker: Animashree Anandkumar </li>
+	<li>4:40 - 5:20 PM: Speaker: Karan Singhal </li>
+	<li>5:20 - 5:30 PM: Break (10 minutes) </li>
+	<li>5:30 - 5:40 PM: Award Presentation and Summary </li>
+	<li>5:40 - 6:30 PM: Poster Session (1 hour) </li>
+	</ul>
 
 </div>
 	</div>
