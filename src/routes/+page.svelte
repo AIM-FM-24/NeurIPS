@@ -164,7 +164,7 @@ The panel discussion members include the following keynote speakers and <a href=
 	<li>10:10 - 10:50 AM: Speaker: Sheng Wang </li>
 	<li>10:50 - 11:30 AM: Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi </li>
 	<li>11:30 AM - 12:30 PM: Poster Session </li>
-	<li>12:30 - 1:30 PM: Lunch Break <\li> 
+	<li>12:30 - 1:30 PM: Lunch Break </li> 
 	</ul>
 
 	<p> <strong>Afternoon Session</strong> </p>

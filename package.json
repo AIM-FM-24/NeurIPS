@@ -47,5 +47,8 @@
 		"svelte-youtube-embed": "0.2.1",
 		"tailwind-merge": "^1.14.0",
 		"three": "^0.150.1"
-	}
+	},
+	"overrides": {
+    "cookie": "^0.7.2"
+  }
 }
