@@ -158,7 +158,6 @@ The panel discussion members include the following keynote speakers and <a href=
         <div class="pt-4">
 	<ul class="list-disc list-inside space-y-4 pl-4">
         <strong>Morning Session
-		<p class="text-lg">
                 <li><strong>8:20 - 8:30 AM:</strong> Introduction<br></li>
                 <li><strong>8:30 - 9:10 AM:</strong> Speaker: Pearse Keane<br></li>
                 <li><strong>9:10 - 9:50 AM:</strong> Speaker: Faisal Mahmood<br></li>
@@ -166,13 +165,9 @@ The panel discussion members include the following keynote speakers and <a href=
                 <li><strong>10:00 - 10:40 AM:</strong> Speaker: Sheng Wang<br></li>
                 <li><strong>10:40 - 11:20 AM:</strong> Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi<br></li>
                 <li><strong>11:20 AM - 12:00 PM:</strong> Poster Session<br></li>
-            </p>
-        <strong>Lunch Break</strong>           
-		<p class="text-lg">
+        <strong>Lunch Break</strong>
                 <li><strong>12:00 - 1:00 PM</strong>
-            	</p>
-	<strong>Afternoon Session</strong>             
-            	<p class="text-lg">
+	<strong>Afternoon Session</strong>
                 <li><strong>1:00 - 1:40 PM:</strong> Speaker: Tianming Liu<br></li>
                 <li><strong>1:40 - 2:20 PM:</strong> Speaker: James Zou<br></li>
                 <li><strong>2:20 - 2:30 PM:</strong> Break (10 minutes)<br></li>
@@ -182,7 +177,6 @@ The panel discussion members include the following keynote speakers and <a href=
                 <li><strong>4:50 - 5:00 PM:</strong> Break (10 minutes)<br></li>
                 <li><strong>5:00 - 5:10 PM:</strong> Award Presentation and Summary<br></li>
                 <li><strong>5:10 - 5:30 PM:</strong> Poster Session<br></li>
-            	</p>
     	</ul>
 
         </div>
