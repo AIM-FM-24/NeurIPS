@@ -156,7 +156,9 @@ The panel discussion members include the following keynote speakers and <a href=
             <a href="{base}/#Schedule">NeurIPS 2024 Workshop Schedule</a>
         </h2>
         <div class="pt-4">
-            <p class="text-xl">
+
+	<ul class="list-disc list-inside space-y-4 pl-4">
+        <li><strong>Morning Session</li> <p class="text-xl">
                 <strong>Morning Session</strong><br>
                 <span class="time">8:20 - 8:30 AM:</span> <strong>Introduction</strong><br>
                 <span class="time">8:30 - 9:10 AM:</span> <strong>Speaker: Pearse Keane</strong><br>
@@ -166,12 +168,10 @@ The panel discussion members include the following keynote speakers and <a href=
                 <span class="time">10:40 - 11:20 AM:</span> <strong>Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi</strong><br>
                 <span class="time">11:20 AM - 12:00 PM:</span> <strong>Poster Session</strong><br>
             </p>
-            <p class="text-xl">
-                <strong>Lunch Break</strong><br>
+        <li><strong>Lunch Break</strong></li>             <p class="text-xl">
                 <span class="time">12:00 - 1:00 PM</span>
             </p>
-            <p class="text-xl">
-                <strong>Afternoon Session</strong><br>
+	<li><strong>Afternoon Session</strong></li>             <p class="text-xl">
                 <span class="time">1:00 - 1:40 PM:</span> <strong>Speaker: Tianming Liu</strong><br>
                 <span class="time">1:40 - 2:20 PM:</span> <strong>Speaker: James Zou</strong><br>
                 <span class="time">2:20 - 2:30 PM:</span> <strong>Break (10 minutes)</strong><br>
@@ -182,7 +182,10 @@ The panel discussion members include the following keynote speakers and <a href=
                 <span class="time">5:00 - 5:10 PM:</span> <strong>Award Presentation and Summary</strong><br>
                 <span class="time">5:10 - 5:30 PM:</span> <strong>Poster Session</strong><br>
             </p>
+    	</ul>
+
         </div>
+
     </div>
 </section>
 
