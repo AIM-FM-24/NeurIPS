@@ -150,38 +150,40 @@ The panel discussion members include the following keynote speakers and <a href=
 </section>
 
 
-<section class="container mx-auto px-4 mb-8 ">
-	<div class="grid">
-		<h2 class="text-4xl font-extrabold dark:text-white" id="Schedule"><a href="{base}/#Schedule">NeurIPS 2024 Workshop Schedule</a></h2>
-		<div class="pt-4"><p class="text-xl">
-	<div class="pt-4 text-xl">
-	<div class="session">
-    <h2>Morning Session</h2>
-    <p>8:30 - 8:40 AM: Introduction</p>
-    <p>8:40 - 9:20 AM: Speaker: Pearse Keane</p>
-    <p>9:20 - 10:00 AM: Speaker: Faisal Mahmood</p>
-    <p>10:00 - 10:10 AM: Break (10 minutes)</p>
-    <p>10:10 - 10:50 AM: Speaker: Sheng Wang</p>
-    <p>10:50 - 11:30 AM: Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi</p>
-    <p>11:30 AM - 12:30 PM: Poster Session</p>
-    <p>12:30 - 1:30 PM: Lunch Break</p>
-</div>
-
-<div class="session">
-    <h2>Afternoon Session</h2>
-    <p>1:30 - 2:10 PM: Speaker: Tianming Liu</p>
-    <p>2:10 - 2:50 PM: Speaker: James Zou</p>
-    <p>2:50 - 3:00 PM: Break (10 minutes)</p>
-    <p>3:00 - 4:00 PM: Oral Session</p>
-    <p>4:00 - 4:40 PM: Speaker: Animashree Anandkumar</p>
-    <p>4:40 - 5:20 PM: Speaker: Karan Singhal</p>
-    <p>5:20 - 5:30 PM: Break (10 minutes)</p>
-    <p>5:30 - 5:40 PM: Award Presentation and Summary</p>
-    <p>5:40 - 6:30 PM: Poster Session (1 hour)</p>
-</div>
-
-</div>
-	</div>
+<section class="container mx-auto px-4 mb-8">
+    <div class="grid">
+        <h2 class="text-4xl font-extrabold dark:text-white" id="Schedule">
+            <a href="{base}/#Schedule">NeurIPS 2024 Workshop Schedule</a>
+        </h2>
+        <div class="pt-4">
+            <p class="text-xl">
+                <strong>Morning Session</strong><br>
+                <span class="time">8:20 - 8:30 AM:</span> Introduction<br>
+                <span class="time">8:30 - 9:10 AM:</span> Speaker: Pearse Keane<br>
+                <span class="time">9:10 - 9:50 AM:</span> Speaker: Faisal Mahmood<br>
+                <span class="time">9:50 - 10:00 AM:</span> Break (10 minutes)<br>
+                <span class="time">10:00 - 10:40 AM:</span> Speaker: Sheng Wang<br>
+                <span class="time">10:40 - 11:20 AM:</span> Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi<br>
+                <span class="time">11:20 AM - 12:00 PM:</span> Poster Session<br>
+            </p>
+            <p class="text-xl">
+                <strong>Lunch Break</strong><br>
+                <span class="time">12:00 - 1:00 PM</span>
+            </p>
+            <p class="text-xl">
+                <strong>Afternoon Session</strong><br>
+                <span class="time">1:00 - 1:40 PM:</span> Speaker: Tianming Liu<br>
+                <span class="time">1:40 - 2:20 PM:</span> Speaker: James Zou<br>
+                <span class="time">2:20 - 2:30 PM:</span> Break (10 minutes)<br>
+                <span class="time">2:30 - 3:30 PM:</span> Oral Session<br>
+                <span class="time">3:30 - 4:10 PM:</span> Speaker: Animashree Anandkumar<br>
+                <span class="time">4:10 - 4:50 PM:</span> Speaker: Karan Singhal<br>
+                <span class="time">4:50 - 5:00 PM:</span> Break (10 minutes)<br>
+                <span class="time">5:00 - 5:10 PM:</span> Award Presentation and Summary<br>
+                <span class="time">5:10 - 5:30 PM:</span> Poster Session<br>
+            </p>
+        </div>
+    </div>
 </section>
 
 
