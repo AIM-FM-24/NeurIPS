@@ -158,30 +158,32 @@ The panel discussion members include the following keynote speakers and <a href=
         <div class="pt-4">
 
 	<ul class="list-disc list-inside space-y-4 pl-4">
-        <li><strong>Morning Session</li> <p class="text-xl">
-                <strong>Morning Session</strong><br>
-                <span class="time">8:20 - 8:30 AM:</span> <strong>Introduction</strong><br>
-                <span class="time">8:30 - 9:10 AM:</span> <strong>Speaker: Pearse Keane</strong><br>
-                <span class="time">9:10 - 9:50 AM:</span> <strong>Speaker: Faisal Mahmood</strong><br>
-                <span class="time">9:50 - 10:00 AM:</span> <strong>Break (10 minutes)</strong><br>
-                <span class="time">10:00 - 10:40 AM:</span> <strong>Speaker: Sheng Wang</strong><br>
-                <span class="time">10:40 - 11:20 AM:</span> <strong>Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi</strong><br>
-                <span class="time">11:20 AM - 12:00 PM:</span> <strong>Poster Session</strong><br>
+        <li><strong>Morning Session</li> 
+		<p class="text-lg">
+                <strong>8:20 - 8:30 AM:</strong> Introduction<br>
+                <strong>8:30 - 9:10 AM:</strong> Speaker: Pearse Keane<br>
+                <strong>9:10 - 9:50 AM:</strong> Speaker: Faisal Mahmood<br>
+                <strong>9:50 - 10:00 AM:</strong> Break (10 minutes)<br>
+                <strong>10:00 - 10:40 AM:</strong> Speaker: Sheng Wang<br>
+                <strong>10:40 - 11:20 AM:</strong> Panel Discussion: Pearse Keane, Faisal Mahmood, Tianming Liu, James Zou, Shekoofeh Azizi<br>
+                <strong>11:20 AM - 12:00 PM:</strong> Poster Session<br>
             </p>
-        <li><strong>Lunch Break</strong></li>             <p class="text-xl">
-                <span class="time">12:00 - 1:00 PM</span>
-            </p>
-	<li><strong>Afternoon Session</strong></li>             <p class="text-xl">
-                <span class="time">1:00 - 1:40 PM:</span> <strong>Speaker: Tianming Liu</strong><br>
-                <span class="time">1:40 - 2:20 PM:</span> <strong>Speaker: James Zou</strong><br>
-                <span class="time">2:20 - 2:30 PM:</span> <strong>Break (10 minutes)</strong><br>
-                <span class="time">2:30 - 3:30 PM:</span> <strong>Oral Session</strong><br>
-                <span class="time">3:30 - 4:10 PM:</span> <strong>Speaker: Animashree Anandkumar</strong><br>
-                <span class="time">4:10 - 4:50 PM:</span> <strong>Speaker: Karan Singhal</strong><br>
-                <span class="time">4:50 - 5:00 PM:</span> <strong>Break (10 minutes)</strong><br>
-                <span class="time">5:00 - 5:10 PM:</span> <strong>Award Presentation and Summary</strong><br>
-                <span class="time">5:10 - 5:30 PM:</span> <strong>Poster Session</strong><br>
-            </p>
+        <li><strong>Lunch Break</strong></li>             
+		<p class="text-lg">
+                <strong>12:00 - 1:00 PM</strong>
+            	</p>
+	<li><strong>Afternoon Session</strong></li>             
+            	<p class="text-lg">
+                <strong>1:00 - 1:40 PM:</strong> Speaker: Tianming Liu<br>
+                <strong>1:40 - 2:20 PM:</strong> Speaker: James Zou<br>
+                <strong>2:20 - 2:30 PM:</strong> Break (10 minutes)<br>
+                <strong>2:30 - 3:30 PM:</strong> Oral Session<br>
+                <strong>3:30 - 4:10 PM:</strong> Speaker: Animashree Anandkumar<br>
+                <strong>4:10 - 4:50 PM:</strong> Speaker: Karan Singhal<br>
+                <strong>4:50 - 5:00 PM:</strong> Break (10 minutes)<br>
+                <strong>5:00 - 5:10 PM:</strong> Award Presentation and Summary<br>
+                <strong>5:10 - 5:30 PM:</strong> Poster Session<br>
+            	</p>
     	</ul>
 
         </div>
