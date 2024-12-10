@@ -101,7 +101,11 @@
 		<i class="fas fa-calendar"></i> December 14, 2024		<br>
 		</h1>
 		<h1 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
-		<i class="fas fa-map"></i> Vancouver Convention Center		
+		<i class="fas fa-map"></i> Vancouver Convention Center [East Ballroom A, B]	
+		</h1>
+		</h1>
+		<h1 class="mb-4 font-extrabold tracking-tight leading-none text-white tracking-wider">
+		<i class="fas fa-search-plus"></i> <a href="https://us06web.zoom.us/j/86594721715?pwd=2XPKlzSfQIDbaz702qqaaeccqFGfBj.1" target="_blank" rel="noopener noreferrer">Zoom</a> [Password: AIM-FM2024]	
 		</h1>
     </div>
 </section>
