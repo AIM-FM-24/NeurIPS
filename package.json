@@ -16,24 +16,24 @@
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
-		"@sveltejs/adapter-auto": "^2.0.0",
-		"@sveltejs/adapter-static": "^2.0.2",
-		"@sveltejs/kit": "^1.5.0",
+		"@sveltejs/adapter-auto": "^3.3.1",
+		"@sveltejs/adapter-static": "^3.0.6",
+		"@sveltejs/kit": "^2.10.1",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
 		"autoprefixer": "^10.4.14",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
 		"postcss": "^8.4.21",
-		"prettier": "^2.8.4",
-		"prettier-plugin-svelte": "^2.8.1",
-		"svelte": "^4.2.19",
+		"prettier": "^3.4.2",
+		"prettier-plugin-svelte": "^3.3.2",
+		"svelte": "^5.10.1",
 		"svelte-check": "^3.0.1",
 		"svelte-highlight": "^7.3.0",
 		"tailwindcss": "^3.3.3",
 		"tslib": "^2.4.1",
 		"typescript": "^4.9.3",
-		"vite": "^4.4.4",
+		"vite": "^6.0.3",
 		"vitest": "^0.25.3"
 	},
 	"type": "module",
@@ -41,14 +41,14 @@
 		"@floating-ui/dom": "^1.4.5",
 		"eslint-plugin-svelte": "^2.43.0",
 		"flowbite": "^1.7.0",
-		"flowbite-svelte": "^0.40.1",
+		"flowbite-svelte": "^0.47.4",
 		"gh-pages": "^5.0.0",
 		"svelte-icons": "^2.1.0",
-		"svelte-youtube-embed": "0.2.1",
+		"svelte-youtube-embed": "^0.2.9",
 		"tailwind-merge": "^1.14.0",
 		"three": "^0.150.1"
 	},
 	"overrides": {
-    "cookie": "^0.7.2"
-  }
+		"cookie": "^0.7.2"
+	}
 }
